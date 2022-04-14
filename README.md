@@ -1,16 +1,15 @@
-# check_box_drop_down
+## check_box_drop_down
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<h1>🚀 Features : </h1> 
+<ul style="font-size:60">
+  <li>Creating reusable Custom Widget by combining CheckboxListTile, and DropdownButton</li>
+  <li>Combining new widget with ListView</li>
+  <li>Add or remove items only by modifying the model class</li>
+  <li>select individual or group of Checkboxes</li>
+ <li>select individual or group of Dropdowns</li>
+ <li> Reactive state management with GetX</li>
+ <li>Display filtered list in the new screen</li>
+</ul> 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
