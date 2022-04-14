@@ -9,7 +9,7 @@
 
 <h1>🚀 Features : </h1> 
 <ul>
-  <li>Creating reusable Custom Widget by combining CheckboxListTile, and DropdownButton</li>
+  <li>Creating reusable custom widget by combining CheckboxListTile, and DropdownButton</li>
   <li>Combining new widget with ListView</li>
   <li>Add or remove items only by modifying the model class</li>
   <li>select individual or group of Checkboxes</li>
